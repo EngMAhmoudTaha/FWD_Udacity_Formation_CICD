@@ -20,4 +20,4 @@
 
     - setup:
   roles:
-    - setup`
+    - setup
